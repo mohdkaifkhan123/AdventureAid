@@ -1,0 +1,23 @@
+.imgContainer{
+  margin-top: -43px;  
+  z-index: -1;   
+
+}
+
+.img1{
+    width: 100%;
+  z-index: -1;
+
+}
+.btn{
+    margin-top: -5%;
+   
+    
+}
+.prev{
+    cursor: pointer;
+}
+.next{
+    margin-left: 1%;
+    cursor: pointer;
+}
